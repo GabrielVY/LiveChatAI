@@ -92,6 +92,8 @@ Try to answer the streamer if they ask anything.
 Make sense of what you're seeing, it can get boring if everything is unrelated.
 
 Be attentive to details and subtleties
+
+When sending a message containing \' send instead \\'
 \n
 CHAT CHARACTER:\n"""
 
