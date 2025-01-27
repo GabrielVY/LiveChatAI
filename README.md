@@ -26,8 +26,8 @@ Before you get started, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/GabrielVY/LiveChatAI
+   cd LiveChatAI
    ```
 
 2. **Set Up the Environment: Create a .env file in the root of the project and add your Gemini API key:**
